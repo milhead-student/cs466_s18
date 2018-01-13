@@ -3,9 +3,9 @@ PART=TM4C123GH6PM
 
 TARGET=blinkyRtos
 
-LABROOT=/home/miller/src/cs466_s17
+LABROOT=../..
 TIVA=${LABROOT}/TivaDriver
-FREERTOS=${LABROOT}/FreeRTOSv9.0.0/FreeRTOS/Source
+FREERTOS=${LABROOT}/FreeRTOSv10.0.0/FreeRTOS/Source
 
 SIZE=arm-none-eabi-size
 
